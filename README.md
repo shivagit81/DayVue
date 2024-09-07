@@ -1,6 +1,6 @@
 # DayVue
 
-**DayVue** is a skill-based to-do list app built using **Vue.js 2**. Created by Shivam Dubey, a frontend developer, this project allows users to add, track, and manage their skills in an interactive and intuitive interface.
+**DayVue** is a skill-based to-do list app built using **Vue.js 2**. This project allows users to add, track, and manage their skills in an interactive and intuitive interface.
 
 ## Table of Contents
 
